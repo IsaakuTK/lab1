@@ -1,0 +1,26 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tll.js",
+  "dependencies": {
+    "npm-matematicas": "^1.0.1"
+  },
+  "scripts": {
+    "start": "node tll.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsaakuTK/lab1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsaakuTK/lab1/issues"
+  },
+  "homepage": "https://github.com/IsaakuTK/lab1#readme",
+  "devDependencies": {
+    "xorshift": "^1.2.0"
+  }
+}
